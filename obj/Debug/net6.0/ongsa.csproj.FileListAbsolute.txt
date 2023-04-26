@@ -1,0 +1,15 @@
+C:\Users\Panggo\Desktop\ongsa\bin\Debug\net6.0\ongsa.exe
+C:\Users\Panggo\Desktop\ongsa\bin\Debug\net6.0\ongsa.deps.json
+C:\Users\Panggo\Desktop\ongsa\bin\Debug\net6.0\ongsa.runtimeconfig.json
+C:\Users\Panggo\Desktop\ongsa\bin\Debug\net6.0\ongsa.dll
+C:\Users\Panggo\Desktop\ongsa\bin\Debug\net6.0\ongsa.pdb
+C:\Users\Panggo\Desktop\ongsa\obj\Debug\net6.0\ongsa.csproj.AssemblyReference.cache
+C:\Users\Panggo\Desktop\ongsa\obj\Debug\net6.0\ongsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panggo\Desktop\ongsa\obj\Debug\net6.0\ongsa.AssemblyInfoInputs.cache
+C:\Users\Panggo\Desktop\ongsa\obj\Debug\net6.0\ongsa.AssemblyInfo.cs
+C:\Users\Panggo\Desktop\ongsa\obj\Debug\net6.0\ongsa.csproj.CoreCompileInputs.cache
+C:\Users\Panggo\Desktop\ongsa\obj\Debug\net6.0\ongsa.dll
+C:\Users\Panggo\Desktop\ongsa\obj\Debug\net6.0\refint\ongsa.dll
+C:\Users\Panggo\Desktop\ongsa\obj\Debug\net6.0\ongsa.pdb
+C:\Users\Panggo\Desktop\ongsa\obj\Debug\net6.0\ongsa.genruntimeconfig.cache
+C:\Users\Panggo\Desktop\ongsa\obj\Debug\net6.0\ref\ongsa.dll
